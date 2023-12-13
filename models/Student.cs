@@ -8,7 +8,7 @@ namespace _13._12.models
 { 
     internal class Student
     {
-        
+        public int ID { get; set;}
     }
     
 }
